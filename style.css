@@ -1,0 +1,16 @@
+h1 {
+    color:gold;
+    text-align:center;
+    background-color: #660066;
+    padding:5px;
+    
+  }
+body {
+      background-color: gray;
+  }
+  span.route2 {
+              font-size:100%;
+              color: gold;
+              background-color: #660066;
+              padding:5px;
+               }
